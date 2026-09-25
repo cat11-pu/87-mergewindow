@@ -1,0 +1,12 @@
+{
+  "overlap_code": "E_OVERLAP",
+  "policy": "reject",
+  "budget": 3,
+  "ranges": [
+    {"id": "r0", "start": 0, "end": 5},
+    {"id": "r1", "start": 5, "end": 9},
+    {"id": "r2", "start": 3, "end": 7},
+    {"id": "r3", "start": 20, "end": 25},
+    {"id": "r4", "start": 9, "end": 12}
+  ]
+}
